@@ -16,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 - [This Video Helped Me](https://www.youtube.com/watch?v=coR4Y-DkrLc)
 - [Written Blog](https://morioh.com/p/5f0c0714bc09)
 
-[Preivew](https://user-images.githubusercontent.com/6572475/215545728-089f8d16-41c7-4d30-ad29-2afbccc77be6.webm)
+![Screenshot_1675097790](https://user-images.githubusercontent.com/6572475/215546049-1d9c0f90-c6c8-46bd-b710-052c91030c14.png)
